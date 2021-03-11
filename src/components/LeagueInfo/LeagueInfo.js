@@ -14,7 +14,7 @@ const LeagueInfo = (props) => {
 
     return (
         <div style={teamStyle}>
-            <img style={{ width: '200px' }} src={strTeamBadge}></img>
+            <img style={{ width: '200px' }} src={strTeamBadge} alt=""></img>
             <div style={{textAlign:'center'}}>
                 <h1>{strTeam}</h1>
                 <p>Sports Type:{strSport}</p>
