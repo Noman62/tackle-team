@@ -4,7 +4,7 @@ import femaleImage from '../Image/female.png';
 import './TeamDetails.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faFlag, faMars, faFutbol, faCalendarAlt } from '@fortawesome/free-solid-svg-icons';
-import { Container, Row, Col, Jumbotron } from 'react-bootstrap';
+import { Container, Row, Col } from 'react-bootstrap';
 
 
 const TeamDetails = (props) => {
