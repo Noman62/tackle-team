@@ -21,7 +21,7 @@ const TeamDetails = (props) => {
     return (
         <div className="main-container">
             <div>
-                <img style={{ height: '300px' }} src={strTeamBanner} class="img-fluid" alt="Responsive image" />
+                <img style={{ height: '300px' }} src={strTeamBanner} class="img-fluid" alt="Responsive" />
             </div>
       
                 <Container className="team-container">
